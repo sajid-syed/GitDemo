@@ -7,6 +7,11 @@ public class RestApiTest {
 	public void postJira()
 	{
 		System.out.println("Post Jira");
+		System.out.println("Post Jira 2");
+		System.out.println("Post Jira 3");
+		System.out.println("Post Jira 4");
+
+
 	}
 	
 	@Test
